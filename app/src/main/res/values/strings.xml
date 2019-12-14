@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AnimationExample</string>
+
+    <string name="main_btn_to_anim_1_text">Пример AnimationDrawable</string>
+    <string name="main_btn_to_anim_2_text">Пример View animations</string>
+    <string name="main_btn_to_anim_3_text">Пример ValueAnimator</string>
+    <string name="main_btn_to_anim_4_text">Пример ObjectAnimator</string>
+    <string name="main_btn_to_anim_5_text">Пример ObjectAnimator для CustomView</string>
+    <string name="main_btn_to_anim_6_text">Пример Transition для Scene</string>
+    <string name="main_btn_to_anim_7_text">Пример Transition для SharedElement</string>
+    <string name="main_btn_to_anim_8_text">Пример Transition для перехода между Activity</string>
+
+    <string name="main_to_anim_7_btn_transition_name">shared_element_button</string>
+    <string name="main_to_anim_7_iv_transition_name">shared_element_image_view</string>
+
+    <string name="anim_3_tv_text">Нажми на изображение</string>
+    <string name="anim_6_btn_text">Нажми на меня</string>
+    <string name="anim_7_btn_text">Снова привет!</string>
+    <string name="anim_8_tv_text">Вот такой переход</string>
+
+    <string name="fpv_progress_template">%d %%</string>
+
+
+
+
+
+
+</resources>

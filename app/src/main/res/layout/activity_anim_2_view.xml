@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Anim_2_View">
+
+    <ImageView
+        android:id="@+id/anim_2_iv"
+        android:layout_width="@dimen/anim_2_iv_size"
+        android:layout_height="@dimen/anim_2_iv_size"
+        android:src="@drawable/horse0"/>
+
+</FrameLayout>

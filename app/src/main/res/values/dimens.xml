@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fpv_default_text_size">32sp</dimen>
+    <dimen name="fpv_default_stroke_width">16dp</dimen>
+
+    <dimen name="main_view_margin">3dp</dimen>
+    <dimen name="main_iv_size">50dp</dimen>
+
+    <dimen name="anim_2_iv_size">200dp</dimen>
+
+    <dimen name="anim_3_iv_size">200dp</dimen>
+    <dimen name="anim_3_tv_margin">10dp</dimen>
+    <dimen name="anim_3_tv_text_size">30sp</dimen>
+
+
+    <dimen name="anim_6_iv_left_size">200dp</dimen>
+    <dimen name="anim_6_iv_right_size">200dp</dimen>
+    <dimen name="anim_6_btn_margin">50dp</dimen>
+
+    <dimen name="anim_7_btn_margin">40dp</dimen>
+    <dimen name="anim_7_tv_text_size">30sp</dimen>
+
+</resources>
